@@ -1,4 +1,6 @@
-/* A Sudoku Solving Machine */
+/* A Sudoku Solving Machine
+	Mouzakitis Nikolaos,Crete
+		2017 		*/
 
 #include <stdio.h>
 #include <stdlib.h>
